@@ -1,4 +1,5 @@
 # SprintGame
 ![](https://github.com/c44rson/SprintGame/blob/main/unityGameDemo.gif)
-* Inspired by Brackeys' Youtube Series
+## Uses Input-Driven Movement, Camera Vector Math, Scene Management, File Imports, Class Cross-Referencing, and Canvas Designing.
+## Inspired by Brackeys' YouTube Series
 
