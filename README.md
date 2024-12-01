@@ -1,2 +1,2 @@
 # SprintGame (inspired by Brackeys)
-![](https://github.com/c44rson/SprintGame/unityGameDemo.gif)
+![](https://github.com/c44rson/SprintGame/blob/main/unityGameDemo.gif)
