@@ -1,2 +1,1 @@
-# SprintGame
-Unity Game inspired from Brackeys Codealong
+# SprintGame (inspired by Brackeys)
